@@ -1,8 +1,5 @@
 ## UPSOLVE-CF
 
-![Dashboard Preview](https://raw.githubusercontent.com/kumudini7/upsolve-cf/master/src/assets/image.png)
-
-![Dashboard Preview](https://raw.githubusercontent.com/kumudini7/upsolve-cf/master/src/assets/IMAGE.jpg)
 
 ## 🛠 Tech Stack
 
